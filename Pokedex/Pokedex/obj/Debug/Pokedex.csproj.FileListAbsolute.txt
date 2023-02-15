@@ -11,3 +11,4 @@ C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.exe
 C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
 C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form2.resources
 C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form3.resources
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form4.resources

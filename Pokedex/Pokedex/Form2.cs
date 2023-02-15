@@ -12,9 +12,11 @@ namespace Pokedex
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private string Name;
+        public Form2(string Name)
         {
             InitializeComponent();
+            textBox1.Text = Name;
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -49,7 +51,17 @@ namespace Pokedex
 
         private void Form3(object sender, MouseEventArgs e)
         {
-            var Form3 = new Form3();
+            //var Form3 = new Form3();
+            //Form3.Show();
+        }
+
+        private void pokemonClicked(object sender, EventArgs e)
+        {
+            PictureBox clickedPicturebox = sender as PictureBox;
+            string name = clickedPicturebox.Name;
+            int id = int.Parse(name.Substring(1));
+
+            var Form3 = new Form3(id);
             Form3.Show();
         }
     }
