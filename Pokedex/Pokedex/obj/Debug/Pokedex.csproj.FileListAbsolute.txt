@@ -1,0 +1,13 @@
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form1.resources
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form2.resources
+C:\Users\KM\Desktop\pokedeks\Pokedex\Pokedex\obj\Debug\Pokedex.Form3.resources
