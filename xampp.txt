@@ -1,0 +1,4 @@
+MySQL server inloggegevens pokedex
+
+Gebruikersnaam: pokedex
+Wachtwoord: Pokemon.2023
